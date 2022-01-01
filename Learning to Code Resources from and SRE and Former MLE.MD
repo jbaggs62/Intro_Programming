@@ -4,8 +4,6 @@
 
 - Basics
 - Languages Specifics 
-- Project Ideas for Portfolios
-- Additional Resources
 
 ## Basics
 
@@ -112,12 +110,10 @@ My favorite backend Language and is used in backends to build things like REST A
     - [ Go: The Complete Developer's Guide (Golang) ](https://www.udemy.com/course/go-the-complete-developers-guide/) 
 
 ### HashiCorp Language
-Popular Language for Infrastrucuter as Code
 
 - Free Guides
     - [Intro to HCL](https://www.linode.com/docs/guides/introduction-to-hcl/)
 ### Python
-My favorite backend Language and is used in backends to build things like REST APIs and other cool stuff.
 
 - Free Guides
     - [Learn Python](https://www.learnpython.org/)
@@ -125,3 +121,95 @@ My favorite backend Language and is used in backends to build things like REST A
 - Paid
     - [Python](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/16077428?start=0#overview) 
 
+### C++
+
+- Free Guides
+    - [Learn C++ from Scratch](https://www.educative.io/blog/how-to-learn-cpp-the-guide-for-beginners)
+
+- Paid
+    - [Python](https://www.udemy.com/course/beginning-c-plus-plus-programming/) 
+
+### Rust
+
+- Free Guides
+    - [Rustlings](https://github.com/rust-lang/rustlings/)
+
+- Paid
+    - [The Rust Programming Language](https://www.udemy.com/course/rust-lang/?ranMID=39197&ranEAID=0F1O0otUXQc&ranSiteID=0F1O0otUXQc-2NYjuL30la9LrGQFUyrxiQ&LSNPUBID=0F1O0otUXQc&utm_source=aff-campaign&utm_medium=udemyads) 
+
+### C
+
+- Free Guides
+    - [C tutorial Point](https://www.tutorialspoint.com/cprogramming/index.htm)
+
+- Paid
+    - [C Programming For Beginners](https://www.udemy.com/course/c-programming-for-beginners-/) 
+
+### C#
+
+- Free Guides
+    - [C# with Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
+
+- Paid
+    - [C Programming For Beginners](https://www.udemy.com/course/csharp-tutorial-for-beginners/) 
+
+### R
+
+- Free Guides
+    - [R Tutorial Points](https://www.tutorialspoint.com/r/index.htm)
+
+- Paid
+    - [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/course/r-programming/) 
+
+
+### R
+
+- Free Guides
+    - [Swift Tutorial Points](https://www.tutorialspoint.com/swift/index.htm)
+
+- Paid
+    - [SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5 ](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) 
+
+
+### Swift
+
+- Free Guides
+    - [Swift Tutorial Points](https://www.tutorialspoint.com/swift/index.htm)
+
+- Paid
+    - [SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5 ](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) 
+
+
+### Kotlin
+
+- Free Guides
+    - [Kotlin W3 School](https://www.w3schools.com/kotlin/index.php)
+- Paid
+    - [The Complete Android 12 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) 
+    - [Kotlin for Java Devs](https://www.udemy.com/course/kotlin-for-java-developers/)
+
+
+### Dart/Flutter
+
+- Free Guides
+    - [Dart FreecodeCamp](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+
+- Paid
+    - [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) 
+
+
+### Ruby
+
+- Free Guides
+    - [Ruby on Rail](https://www.tutorialspoint.com/ruby-on-rails/index.htm)
+
+- Paid
+    - [The complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/) 
+
+### HTML/CSS
+
+- Free Guides
+    - [HTML/CSS W3 School](https://www.w3schools.com/html/default.asp)
+
+- Paid
+    - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) 
