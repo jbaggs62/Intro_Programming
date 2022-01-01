@@ -162,14 +162,6 @@ My favorite backend Language and is used in backends to build things like REST A
     - [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/course/r-programming/) 
 
 
-### R
-
-- Free Guides
-    - [Swift Tutorial Points](https://www.tutorialspoint.com/swift/index.htm)
-
-- Paid
-    - [SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5 ](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) 
-
 
 ### Swift
 
